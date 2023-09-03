@@ -1,0 +1,46 @@
+.header-container {
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: row;
+  align-items: center;
+  height: 51px;
+  width: 100%;
+  margin-top: 12px;
+  margin-bottom: 12px;
+}
+
+.header-main {
+  display: flex;
+  flex-direction: row;
+  height: 51px;
+  width: 1274px;
+  padding-left: 150px;
+  cursor: pointer;
+}
+
+.home {
+  margin-right: 25px;
+  font-family: robot;
+  font-weight: 520;
+}
+
+.offer-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding-right: 150px;
+}
+
+.offer {
+  margin-right: 30px;
+  font-weight: 450;
+}
+
+button {
+  width: 100px;
+  height: 40px;
+  background-color: orange;
+  color: white;
+  border-style: none;
+  border-radius: 20px;
+}

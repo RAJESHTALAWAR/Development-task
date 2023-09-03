@@ -1,0 +1,35 @@
+.main-tropical-container {
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: row;
+  align-items: center;
+  height: 800px;
+  width: 100%;
+
+  background-color: #ccc;
+}
+
+.tropical-container {
+  width: 600px;
+  height: 521px;
+}
+
+.para {
+  margin-top: 0px;
+  font-family: 'roboto';
+  margin-top: 100px;
+}
+.break {
+  font-weight: 400;
+}
+
+.image-logo {
+  display: flex;
+  align-items: center;
+}
+
+.image {
+  width: 541px;
+  height: 741px;
+  margin-bottom: 150px;
+}

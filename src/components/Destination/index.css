@@ -1,0 +1,9 @@
+.heading {
+  text-align: start;
+  margin-left: 100px;
+}
+.arrow {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
